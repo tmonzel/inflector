@@ -1,0 +1,3 @@
+# ignore komodo files
+*.komodoproject
+.komodotools
